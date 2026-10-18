@@ -1,0 +1,3 @@
+MANOS QUE HABLAN - Prototipo LSC <-> Español
+Abecedario: img/senas/abc (Ñ = nn.png). Números 1-20: img/senas/num. Provienen de los carteles suministrados por el equipo.
+Si tienes versiones de mayor resolución, reemplaza los .png con el mismo nombre. Valida cada seña con la comunidad sorda / INSOR.
